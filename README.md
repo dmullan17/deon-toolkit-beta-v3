@@ -6,5 +6,5 @@ made private) with GitHub Pages serving its `main` branch. Every old link, inclu
 `#/en/place/…` routes, forwards to the same page on the new address. No toolkit code or
 data is in this repo.
 
-If the Cloudflare address changes, update `NEW` and the two URLs in `index.html`, then
+If the toolkit's address changes, update `NEW` and the two URLs in `index.html`, then
 copy it to `404.html`.
